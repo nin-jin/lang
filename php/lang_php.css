@@ -1,0 +1,35 @@
+lang_php {
+    white-space: pre-wrap;
+    font-family: 'Courier New', monospace;
+}
+lang_php_dollar {
+    font-weight: bold;
+    color: #66c;
+}
+
+lang_php_variable {
+    color: #66c;
+}
+
+lang_php_string {
+    color: #393;
+    white-space: pre;
+}
+
+lang_php_func {
+    color: #c66;
+    font-weight: bold;
+    white-space: pre;
+}
+
+lang_php_keyword {
+    color: #369;
+    font-weight: bold;
+}
+
+lang_php_number {
+    color: #939;
+    white-space: pre;
+    font-weight: bold;
+}
+

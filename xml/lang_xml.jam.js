@@ -1,0 +1,1 @@
+$lang_xml= $lang_sgml
